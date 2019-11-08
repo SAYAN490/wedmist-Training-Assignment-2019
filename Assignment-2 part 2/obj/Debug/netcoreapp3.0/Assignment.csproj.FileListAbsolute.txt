@@ -1,0 +1,22 @@
+D:/c#/Assignment/bin/Debug/netcoreapp3.0/Assignment.exe
+D:/c#/Assignment/bin/Debug/netcoreapp3.0/Assignment.deps.json
+D:/c#/Assignment/bin/Debug/netcoreapp3.0/Assignment.runtimeconfig.json
+D:/c#/Assignment/bin/Debug/netcoreapp3.0/Assignment.runtimeconfig.dev.json
+D:/c#/Assignment/bin/Debug/netcoreapp3.0/Assignment.dll
+D:/c#/Assignment/bin/Debug/netcoreapp3.0/Assignment.pdb
+D:/c#/Assignment/obj/Debug/netcoreapp3.0/Assignment.csprojAssemblyReference.cache
+D:/c#/Assignment/obj/Debug/netcoreapp3.0/Assignment.AssemblyInfoInputs.cache
+D:/c#/Assignment/obj/Debug/netcoreapp3.0/Assignment.AssemblyInfo.cs
+D:/c#/Assignment/obj/Debug/netcoreapp3.0/Assignment.dll
+D:/c#/Assignment/obj/Debug/netcoreapp3.0/Assignment.pdb
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/obj/Debug/netcoreapp3.0/Assignment.csprojAssemblyReference.cache
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/obj/Debug/netcoreapp3.0/Assignment.AssemblyInfoInputs.cache
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/obj/Debug/netcoreapp3.0/Assignment.AssemblyInfo.cs
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/obj/Debug/netcoreapp3.0/Assignment.dll
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/obj/Debug/netcoreapp3.0/Assignment.pdb
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/bin/Debug/netcoreapp3.0/Assignment
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/bin/Debug/netcoreapp3.0/Assignment.deps.json
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/bin/Debug/netcoreapp3.0/Assignment.runtimeconfig.json
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/bin/Debug/netcoreapp3.0/Assignment.runtimeconfig.dev.json
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/bin/Debug/netcoreapp3.0/Assignment.dll
+/Users/sayanbanerjee/Desktop/Sayan Banerjee/STUDY/Labs Pro & PPT/wedmist/C#/Assignment-2 part 2/bin/Debug/netcoreapp3.0/Assignment.pdb
